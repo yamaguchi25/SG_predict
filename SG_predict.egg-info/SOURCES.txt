@@ -1,0 +1,6 @@
+README.md
+setup.py
+SG_predict.egg-info/PKG-INFO
+SG_predict.egg-info/SOURCES.txt
+SG_predict.egg-info/dependency_links.txt
+SG_predict.egg-info/top_level.txt
